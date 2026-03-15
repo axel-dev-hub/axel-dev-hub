@@ -1,4 +1,4 @@
-# Hi, I'm Axel López 👋
+# Hi, I'm Axel 👋
 
 Engineering student passionate about Data, ML & AI — building projects to turn data into real solutions.
 
