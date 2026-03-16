@@ -16,10 +16,7 @@ Engineering student passionate about Data, ML & AI — building projects to turn
 ## 📌 Featured Projects
 | Project | Description |
 |---|---|
-| [calculadora-web-python](https://github.com/axel-dev-hub/calculadora-flask) | Web calculator built with Python and Flask |
-| [password-generator-api](https://github.com/axel-dev-hub/generador-password-flask) | Secure password generator using Flask |
-| [number-guessing-game](https://github.com/axel-dev-hub/adivina-juego-flask) | Number guessing game with Flask backend |
-| [unit-converter-api](https://github.com/axel-dev-hub/conversor-unidades-flask) | Unit converter web app with Flask |
+
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-lópez-bonilla-630649390)
