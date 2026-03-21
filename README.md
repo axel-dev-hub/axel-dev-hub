@@ -13,13 +13,8 @@ Engineering student passionate about Data, ML & AI — building projects to turn
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Featured Projects
-| Project | Description |
-|---|---|
-| [calculadora-web](https://github.com/axel-dev-hub/Portfolio-Axel/tree/main/calculadora-web) | Web calculator built with Python and Flask |
-| [password-generator](https://github.com/axel-dev-hub/Portfolio-Axel/tree/main/password-generator) | Secure password generator using Flask |
-| [number-guessing-game](https://github.com/axel-dev-hub/Portfolio-Axel/tree/main/number-guessing-game) | Number guessing game with Flask backend |
-| [unit-converter](https://github.com/axel-dev-hub/Portfolio-Axel/tree/main/unit-converter) | Unit converter web app with Flask |
+## Projects
+Check out my portfolio: [Portfolio-Axel](https://github.com/axel-dev-hub/Portfolio-Axel)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axel-lópez-bonilla-630649390)
